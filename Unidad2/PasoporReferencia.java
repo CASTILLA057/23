@@ -1,6 +1,6 @@
 package Unidad2;
 
-class Persona {
+class Persona{
     String nombre;
 }
 public class PasoporReferencia {
